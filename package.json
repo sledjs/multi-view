@@ -1,0 +1,16 @@
+{
+  "name": "@sled/multi-view",
+  "version": "0.1.0-beta",
+  "description": "one slide at a time? rather more",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sledjs/multi-view.git"
+  },
+  "author": "Damian Martyniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sledjs/multi-view/issues"
+  },
+  "homepage": "https://github.com/sledjs/multi-view#readme"
+}
